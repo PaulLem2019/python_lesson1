@@ -15,3 +15,4 @@ while number > 0:
     number //= 10
 
 print (f'{maximal} - максимальное цифра в числе {beg_number}')
+

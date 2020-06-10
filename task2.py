@@ -10,4 +10,3 @@ minutes = (sec % 3600) // 60
 second = sec % 3600 % 60
 
 print (f'{hour}:{minutes}:{second}')
-
