@@ -8,3 +8,4 @@ number = int (input("Введите число n от 1 до 9 "))
 n = number * ( 1 + 11 + 111)
 
 print ("Сумма числа n+nn+nnn = ", n)
+

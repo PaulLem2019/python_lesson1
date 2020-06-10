@@ -26,4 +26,3 @@ while (day_km < km_target):
 
 #print (f'Ответ: на {day}-й день спортсмен достиг результата — не менее {km_target} км.')
 print (day)
-

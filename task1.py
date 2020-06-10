@@ -23,10 +23,10 @@ str = input ("Введите строку qwerty ")
 
 if str == "qwerty":
     print ("Да, спасибо!")
-    print ("Вы ввели строку: ", str)
+    print ("Вы ввели строку ", str)
 else:
     print ("Не читаете условия")
-    print ("Вы ввели строку: ", str)
+    print ("Вы ввели 7", str)
 
 
 
