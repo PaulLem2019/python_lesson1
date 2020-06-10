@@ -16,3 +16,4 @@ if pryb > izder:
     print (f'Прибыль фирмы в расчете на одного сотрудника:  {(pryb-izder)/personals} ')
 else:
     print ("Фирма убыточна.")
+
